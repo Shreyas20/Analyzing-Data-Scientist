@@ -1,5 +1,5 @@
 # Analyzing-Data-Scientist
-Analyzed of various people working or seeking to work in data science field and producted their salaries
+Analysis of various people working or seeking to work in data science field and predicted their salaries
 
 
 Link to kaggle dataset:
